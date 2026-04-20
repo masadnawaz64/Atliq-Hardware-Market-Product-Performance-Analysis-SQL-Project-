@@ -152,7 +152,9 @@ A total of **13 SQL queries** were written to perform this analysis.
 
 This analysis identifies which markets contribute the most to overall revenue.
 
-![Market Revenue](market_revenue.png)
+<img width="489" height="344" alt="Revenue by Market" src="https://github.com/user-attachments/assets/92acfaf1-8b28-44e6-82c5-3dd28222e5b6" />
+
+
 
 **Insight**
 
@@ -164,7 +166,9 @@ India and the USA generate the highest revenue for the company, indicating stron
 
 This analysis measures revenue growth across different years using SQL window functions.
 
-![Revenue Growth](revenue_growth.png)
+<img width="690" height="221" alt="Revenue Growth" src="https://github.com/user-attachments/assets/0f66873f-4376-46db-9560-71fe8ed54c84" />
+
+
 
 **Insight**
 
@@ -176,7 +180,8 @@ The company demonstrates strong year-over-year revenue growth, indicating increa
 
 This analysis identifies the customers contributing the most to total revenue.
 
-![Top Customers](top_customers.png)
+<img width="378" height="329" alt="Top Customers" src="https://github.com/user-attachments/assets/4fc928a3-fb08-43c9-ad68-1601a6d8f532" />
+
 
 **Insight**
 
@@ -188,7 +193,8 @@ Major enterprise customers such as **Amazon** and **Atliq e Store** contribute a
 
 This analysis highlights the best-performing products based on revenue.
 
-![Top Products](top_products_revenue.png)
+<img width="521" height="348" alt="Top Products by Revenue" src="https://github.com/user-attachments/assets/3a5d3ada-24ce-47f2-8277-164c387e584d" />
+
 
 **Insight**
 
@@ -199,7 +205,8 @@ Products like **AQ BZ Compact** and **AQ Smash 1** are among the top-performing 
 
 The following dashboard visualizes key insights from the SQL analysis including market revenue, revenue growth trends, top customers, and top performing products.
 
-![Sales Dashboard](dashboard.png)
+<img width="1282" height="729" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/2e71dfa9-9892-407e-87d9-fdf4661930ae" />
+
 
 ---
 # Key Business Insights
